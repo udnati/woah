@@ -8,3 +8,13 @@
   "main": "woah.css",
   "keywords": [
     "CSS",
+    "Animation",
+    "Library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
